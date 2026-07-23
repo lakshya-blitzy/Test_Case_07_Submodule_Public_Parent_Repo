@@ -1,0 +1,3 @@
+[submodule "private_submodule"]
+	path = private_submodule
+	url = https://github.com/lakshya-blitzy/Test_Case_07_Submodule_Private_child_Repo.git
